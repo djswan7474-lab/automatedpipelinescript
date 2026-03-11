@@ -1,0 +1,2 @@
+# automatedpipelinescript
+Automated Pipeline
